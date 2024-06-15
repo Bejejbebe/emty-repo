@@ -1,0 +1,62 @@
+UserID: 5096333282 | Time: 2024-06-15 09:58:49.690026 | Command: /bgmi | Target: 20.204.178.48 | Port: 13585 | Time: 120
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.178.48
+Port: 13585
+Time: 120
+
+UserID: 5096333282 | Time: 2024-06-15 10:02:12.747472 | Command: /bgmi | Target: 20.204.190.0 | Port: 10033 | Time: 120
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.190.0
+Port: 10033
+Time: 120
+
+UserID: 5096333282 | Time: 2024-06-15 12:37:47.459186 | Command: /bgmi | Target: 20.219.21.162 | Port: 26608 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.219.21.162
+Port: 26608
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 13:17:33.046037 | Command: /bgmi | Target: 20.235.150.111 | Port: 15230 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.235.150.111
+Port: 15230
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 13:20:06.444074 | Command: /bgmi | Target: 20.204.190.242 | Port: 10229 | Time: 180
+UserID: 5096333282 | Time: 2024-06-15 13:21:02.694790 | Command: /bgmi | Target: 20.204.190.242 | Port: 10229 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.190.242
+Port: 10229
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 13:49:24.056289 | Command: /bgmi | Target: 4.213.65.122 | Port: 28770 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 4.213.65.122
+Port: 28770
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 13:52:41.192287 | Command: /bgmi | Target: 4.213.65.122 | Port: 28770 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 4.213.65.122
+Port: 28770
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 14:03:52.693371 | Command: /bgmi | Target: 20.204.75.46 | Port: 11055 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.75.46
+Port: 11055
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 15:00:32.980807 | Command: /bgmi | Target: 20.204.155.49 | Port: 11171 | Time: 180
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.155.49
+Port: 11171
+Time: 180
+
+UserID: 5096333282 | Time: 2024-06-15 15:03:36.293806 | Command: /bgmi | Target: 20.204.155.49 | Port: 11171 | Time: 120
+UserID: 5096333282 | Time: 2024-06-15 15:04:04.040679 | Command: /bgmi | Target: 20.204.155.49 | Port: 11171 | Time: 120
+Username: @ARKILLER_DDOS_OWNER
+Target: 20.204.155.49
+Port: 11171
+Time: 120
+
